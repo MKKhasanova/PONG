@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-/*We greet you!! Before you opened the game Pong. The game developers are: sunflowa. 
+/*We greet you!! Before you opened the game Pong.  
 On the screen you see a Pong field, a net, a ball, a counter and 2 rackets. Our program is played by 2 players. 
 The essence of the game: each player must hit the ball from his side and hit it on the far opposite border. 
 The goal of the game is to hit the ball on the opposite border 21 times. Rackets can be controlled by pressing the keys. 
